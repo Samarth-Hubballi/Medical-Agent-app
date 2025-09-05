@@ -103,7 +103,7 @@ medical_agent = Agent(
 
 # Medical Analysis Query
 query = """
-    '<span style="color: blue;">Your output text here</span>',
+    '<span style="color: white;">Your output text here</span>',
     unsafe_allow_html=True
 )
 You are a highly skilled medical imaging expert with extensive knowledge in radiology and diagnostic imaging. Analyze the medical image and structure your response as follows:
