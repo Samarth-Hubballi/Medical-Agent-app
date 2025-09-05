@@ -9,4 +9,5 @@ duckduckgo-search
 ollama
 google-genai
 langchain_community
+ddgs
 gunicorn
